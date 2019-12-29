@@ -1,29 +1,5 @@
 # Implémentation d'un protocole d’échange sécurise avec OpenSSL
 
-
-
-
-
-
-
-
-
-+ Ce travail est réalisé par:
-    + CHEBBAH Mehdi
-    + HAMMAS Ali Cherif
-
-
-
-[TOC]
-
-
-
-
-
-
-
-
-
 ## Introduction
 
 Nous allons dans ce rapport procéder a l’implémentation d'un protocole d’échange sécurisé hybride qui garantie les services de sécurité suivant:
